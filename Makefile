@@ -6,4 +6,5 @@ debug:
 	g++ -g main.cpp
 
 clean:
-	rm a.*
+	echo "Clean"
+	rm *.exe
