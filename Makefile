@@ -6,4 +6,4 @@ debug:
 	g++ -g main.cpp
 
 clean:
-	rm a.*
+	del a.*
